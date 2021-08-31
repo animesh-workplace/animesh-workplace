@@ -1,8 +1,8 @@
-<p align="center">
+<div align="center">
     <h3><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi there!! I'm Animesh Kumar Singh</h3>
     <h3>💼 I’m currently working in National Institute of Biomedical Genomics</h3>
     <h3>💻 Working as NSM Bioinformatics Engineer</h3>
-</p>
+</div>
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=animesh-workplace&hide_border=true&theme=dark&layout=compact" alt="Animesh's Top Languages">
