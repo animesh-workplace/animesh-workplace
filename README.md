@@ -3,8 +3,8 @@
 # Hi there!! I'm Animesh Kumar Singh
 
 <div>
-    <h4>💼 Working in National Institute of Biomedical Genomics</h4>
-    <h4>💻 I'm working as NSM Bioinformatics Engineer</h4>
+    <h4>💼 Working in National Institute of Biomedical Genomics<br>
+    💻 I'm working as NSM Bioinformatics Engineer</h4>
 </div>
 
 <div align="center">
