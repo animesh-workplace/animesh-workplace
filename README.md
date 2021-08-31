@@ -3,17 +3,15 @@
 # Hi there!! I'm Animesh Kumar Singh
 
 <div align="center">
-    <h3>💼 Working in National Institute of Biomedical Genomics<br>
-    💻 I'm working as NSM Bioinformatics Engineer</h3>
+    <h3>
+        💼 Working in National Institute of Biomedical Genomics<br>
+        💻 I'm working as NSM Bioinformatics Engineer
+    </h3>
 </div>
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=animesh-workplace&hide_border=true&theme=dark&layout=compact" alt="Animesh's Top Languages">
 </div>
-
-<!-- <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=animesh-workplace&theme=dark&hide_border=true" alt="Animesh's GitHub streak">
-</div> -->
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=animesh-workplace&theme=dark&show_icons=true&hide_border=true" alt="Animesh's GitHub stats">
