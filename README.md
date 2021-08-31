@@ -4,11 +4,11 @@
 
  💻 Working as NSM Bioinformatics Engineer
 
-<div style="display: flex; align-items: center; justify-content: center;">
+<div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=animesh-workplace&theme=dark&show_icons=true&hide_border=true">
 </div>
 
-![Animesh's github stats](https://github-readme-stats.vercel.app/api?username=animesh-workplace&theme=dark&show_icons=true&hide_border=true) 
+<!-- ![Animesh's github stats](https://github-readme-stats.vercel.app/api?username=animesh-workplace&theme=dark&show_icons=true&hide_border=true)  -->
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=animesh-workplace&hide_border=true&theme=dark&layout=compact)
