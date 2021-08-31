@@ -1,7 +1,6 @@
 <img align="left" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="100px">
 
-## Hi there!! 
-# I'm Animesh Kumar Singh
+# Hi there!! I'm Animesh Kumar Singh
 
 <div align="center">
     <h3>💼 I’m currently working in National Institute of Biomedical Genomics</h3>
