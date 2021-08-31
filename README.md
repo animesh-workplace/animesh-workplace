@@ -1,4 +1,4 @@
-<img align="left" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="100px">
+<img align="left" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="90px">
 
 # Hi there!! I'm Animesh Kumar Singh
 
