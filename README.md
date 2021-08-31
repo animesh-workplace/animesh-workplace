@@ -1,5 +1,9 @@
 ### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi there
 
+<div align="center">
+    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <h3>Hi there!! I'm Animesh Kumar Singh</h3>
+</div>
+
  💼 I’m currently working in National Institute of Biomedical Genomics
 
  💻 Working as NSM Bioinformatics Engineer
