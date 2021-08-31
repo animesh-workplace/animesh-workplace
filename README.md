@@ -2,10 +2,8 @@
 
 # Hi there!! I'm Animesh Kumar Singh
 
-<div>
-    <h3>💼 I’m currently working in National Institute of Biomedical Genomics</h3>
-    <h3>💻 Working as NSM Bioinformatics Engineer</h3>
-</div>
+### 💼 I’m currently working in National Institute of Biomedical Genomics
+### 💻 Working as NSM Bioinformatics Engineer
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=animesh-workplace&hide_border=true&theme=dark&layout=compact" alt="Animesh's Top Languages">
