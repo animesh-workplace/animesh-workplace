@@ -2,7 +2,7 @@
 
 # Hi there!! I'm Animesh Kumar Singh
 
-<div align="center">
+<div>
     <h3>💼 I’m currently working in National Institute of Biomedical Genomics</h3>
     <h3>💻 Working as NSM Bioinformatics Engineer</h3>
 </div>
