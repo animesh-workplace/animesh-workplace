@@ -5,12 +5,12 @@
 <div align="center">
     <h3>
         💼 Working in National Institute of Biomedical Genomics<br>
-        💻 I'm working as NSM Bioinformatics Engineer
+        💻 I'm working as Bioinformatics Engineer in National Supercomputing Mission (NSM)
     </h3>
 </div>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=animesh-workplace&hide_border=true&theme=dark&layout=compact" alt="Animesh's Top Languages">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=animesh-workplace&hide_border=true&theme=dark&layout=compact&langs_count=10&card_width=450" alt="Animesh's Top Languages">
 </div>
 
 <div align="center">
