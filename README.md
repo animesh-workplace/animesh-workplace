@@ -5,7 +5,7 @@
 <div align="center">
     <h3>
         💼 Working in National Institute of Biomedical Genomics<br>
-        💻 I'm working as Bioinformatics Engineer in National Supercomputing Mission (NSM)
+        💻 I'm working as Software Engineer in National Supercomputing Mission (NSM)
     </h3>
 </div>
 
