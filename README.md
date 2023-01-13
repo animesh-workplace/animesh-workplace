@@ -14,7 +14,7 @@
 </div>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=animesh-workplace&theme=dark&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="Animesh's GitHub stats">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=animesh-workplace&theme=dark&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="Animesh's GitHub stats">
 </div>
 
 <h3 align="center">Languages and Tools:</h3>
