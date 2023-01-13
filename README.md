@@ -10,7 +10,7 @@
 </div>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=animesh-workplace&hide_border=true&theme=dark&layout=compact&langs_count=10&card_width=450" alt="Animesh's Top Languages">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=animesh-workplace&hide_border=true&theme=dark&layout=compact&langs_count=10&card_width=450" alt="Animesh's Top Languages">
 </div>
 
 <div align="center">
